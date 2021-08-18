@@ -21,6 +21,8 @@
 # Set up score function.
 
 # Set up Coin flip function
+    
+    # Flip a coin
 
 # Set up __main__ == __name__ function.
 

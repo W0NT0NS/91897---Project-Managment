@@ -1,5 +1,5 @@
 ##
-# File Name: math_question_generator_3.py
+# File Name: math_quiz_v1.2.py
 # Author: Nathan Wong
 # Version: 3.0.0
 # Date Created: 18/8/2021

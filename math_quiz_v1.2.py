@@ -1,7 +1,7 @@
 ##
 # File Name: math_quiz_v1.2.py
 # Author: Nathan Wong
-# Version: 3.0.0
+# Version: 1.2
 # Date Created: 18/8/2021
 # Date Modifided: 21/8/2021
 

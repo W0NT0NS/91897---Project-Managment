@@ -1,4 +1,10 @@
-# 91897---Project-Managment
+# 91897 Project Managment
+This project has been desinged for use in NCEA Level 2
+
+Made by Nathan Wong
+
+2021
+
 
 # Student Game Descriptions
 Kia Ora, and welcome aboard this game of exciting learning. Shortly, some simple and fun maths questions are going to be asked. Whenever you put in the mahi (work) and get a question correct you get 1 koru! After you’ve answered some questions the game will ask you if you want to flip a coin to double your korus, however if the coin lands on heads lose all your korus will be taken away by the Taniwha! You’ll have to start all over again. 

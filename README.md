@@ -1,5 +1,5 @@
 # AS91897 Project Managment
-This project has been desinged for use in NCEA Level 2 in 2021
+This project has been designed for use in NCEA Level 2 in 2021
 
 Made by Nathan Wong
 
